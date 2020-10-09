@@ -11,6 +11,7 @@ body{
 }
 .box1{
 	width:960px;
+	margin-top:20px ;
 	margin-left:auto;
 	margin-right:auto;
 	border-style:solid;
@@ -44,6 +45,7 @@ body{
 }
 .box3{
 	width:960px;
+	margin-top:20px ;
 	margin-left:auto;
 	margin-right:auto;
 	border-style:solid;
@@ -61,6 +63,7 @@ body{
 }
 .box4{
 	width:960px;
+	margin-top:20px ;
 	margin-left:auto;
 	margin-right:auto;
 	border-style:solid;
@@ -77,12 +80,12 @@ body{
 	text-decoration: none;
 	text-transform: uppercase;
 	float:middle;
-	width: 33.3%;
 	border: 1px solid #ccc;
 	box-sizing: border-box;
 }
 .box5{
 	width:960px;
+	margin-top:20px ;
 	margin-left:auto;
 	margin-right:auto;
 	border-style:solid;
