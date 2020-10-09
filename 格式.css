@@ -1,17 +1,11 @@
 html{
-	background-color:#000000;
+	background-color:#ffffff;	
 }
 body{
 		text-align:center;
 }
-.img-wrap{
-	display: table-cell;
-	vertical-align: middle;
-	text-align: center;
-}
 .box1{
 	width:960px;
-	margin-top:20px ;
 	margin-left:auto;
 	margin-right:auto;
 	border-style:solid;
@@ -27,61 +21,8 @@ body{
 	text-decoration: none;
 	text-transform: uppercase; 
 	}
-.box2{width:960px;
-	margin-top:20px ;
-	margin-left:auto;
-	margin-right:auto;
-	border-style:solid;
-	border-color:gold;
-	border-radius:35px;
-	padding-left:20px;
-	padding-right:20px;
-	background: rgb(137,190,178);
-	font-family:"Times of New Roman",serif
-	font:normal 16px;
-	font-size: 50px
-	text-decoration: none;
-	text-transform: uppercase;
-}
-.box3{
-	width:960px;
-	margin-top:20px ;
-	margin-left:auto;
-	margin-right:auto;
-	border-style:solid;
-	border-radius:35px;
-	border-color:gold;
-	padding-left:20px;
-	padding-right:20px;
-	background: rgb(137,190,178);
-	font-family:"Times of New Roman",serif
-	font:normal 16px;
-	font-size: 50px
-	text-decoration: none;
-	text-transform: uppercase;
-}
-.box4{
-	width:960px;
-	margin-top:20px ;
-	margin-left:auto;
-	margin-right:auto;
-	border-style:solid;
-	border-radius:35px;
-	border-color:gold;
-	padding-left:20px;
-	padding-right:20px;
-	background: rgb(137,190,178);
-	color:gold;
-	font-family:"Times of New Roman",serif
-	font:normal 16px;
-	font-size: 50px
-	text-decoration: none;
-	text-transform: uppercase;
-	float:middle;
-	border: 1px solid #ccc;
-	box-sizing: border-box;
-}
-.box5{
+.box2,.box3,.box4,.box5
+{
 	width:960px;
 	margin-top:20px ;
 	margin-left:auto;
@@ -92,15 +33,13 @@ body{
 	padding-left:20px;
 	padding-right:20px;
 	background: rgb(137,190,178);
-	color:gold;
 	font-family:"Times of New Roman",serif
-	font:normal 16px;
 	font-size: 50px
 	text-decoration: none;
 	text-transform: uppercase;
 }
 button:active{
-	background-color:#fff;
+	background-color:silver;
 }
 button:hover{
 	background-color: gold;
@@ -121,8 +60,6 @@ a:visited {
 }
 .table{
 	font-size: 20px;
-	align: center;
-	margin: auto;
 }
 div.box-end{
 	clear: both;
