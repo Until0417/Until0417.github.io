@@ -1,5 +1,5 @@
 html{
-	background-color:#ffffff;	
+	background-color:azure;	
 }
 body{
 		text-align:center;
@@ -21,7 +21,7 @@ body{
 	text-decoration: none;
 	text-transform: uppercase; 
 	}
-.box2,.box3,.box4,.box5
+.box2,.box3,.box4,.box5,.information
 {
 	width:960px;
 	margin-top:20px ;
@@ -37,6 +37,7 @@ body{
 	font-size: 50px
 	text-decoration: none;
 	text-transform: uppercase;
+	border-sizing:border-box;
 }
 button:active{
 	background-color:silver;
